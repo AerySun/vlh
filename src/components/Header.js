@@ -17,7 +17,6 @@ const StyledHeader = styled(Header)`
 height: 80px;
 display: flex;
 align-items: center;
-border-bottom: 1px solid black;
 padding: 0 2rem;
 
 .left {
